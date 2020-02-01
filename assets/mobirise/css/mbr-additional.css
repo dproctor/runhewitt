@@ -3401,6 +3401,9 @@ section.lazy-placeholder:after {
 .cid-rOJBNy5Thr .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rMEAgZRMjO {
+  background-image: url("../../../assets/images/thewitt-runnersworlds-2000x1333.jpg");
+}
 .cid-rNCyujMS8d {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -3837,7 +3840,4 @@ section.lazy-placeholder:after {
 .cid-rOJBNy5Thr .nav-link:hover,
 .cid-rOJBNy5Thr .dropdown-item:hover {
   color: #c1c1c1 !important;
-}
-.cid-rMEAgZRMjO {
-  background-image: url("../../../assets/images/thewitt-runnersworlds-2000x1333.jpg");
 }
