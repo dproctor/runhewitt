@@ -3404,6 +3404,11 @@ section.lazy-placeholder:after {
 .cid-rMEAgZRMjO {
   background-image: url("../../../assets/images/thewitt-runnersworlds-7-2000x1333.jpeg");
 }
+@media (max-width: 767px) {
+  .cid-rMEAgZRMjO {
+    background-image: url("../../../assets/images/thewitt-runnersworlds-mobile.jpeg");
+  }
+}
 .cid-rNCyujMS8d {
   padding-top: 30px;
   padding-bottom: 30px;
